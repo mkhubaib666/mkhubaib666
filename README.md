@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://khubaibathar.com">
+  <a href="https://khubaibathar.dev">
     <img src="https://img.shields.io/badge/Website-4A4A4A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   &nbsp;&nbsp;
