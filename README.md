@@ -11,7 +11,7 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🔭 &nbsp; I’m currently engineering solutions at **REWE digital**.
+- 🔭 &nbsp; I’m currently engineering solutions at **RTL Tech**.
 - 🌱 &nbsp; I’m focused on learning **Next.js, Go, and Azure Cloud**.
 - 👯 &nbsp; I’m open to collaborating on innovative open-source/freelance projects.
 - ⚡ &nbsp; Fun fact: I taught my 76-year-old grandma how to code!
